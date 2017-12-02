@@ -1,1 +1,1 @@
-repository for trainings
+repository for trainingsk
